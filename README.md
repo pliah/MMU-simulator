@@ -1,5 +1,5 @@
-##MMU PROJECT
-###Description
+## MMU PROJECT
+### Description
 This project stimulates the memory management unit of the computer, using different paging algorithms.
 it divides into two parts:
 * The server side (simulates the memory management unit) - which is in charge of getting a request from the client,
